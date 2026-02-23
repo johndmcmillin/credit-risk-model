@@ -1,0 +1,35 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+!app/feature_info.csv
+
+# Processed data (reproducible from notebooks)
+data/processed/
+
+# Model files (large binaries)
+app/*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
