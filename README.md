@@ -3,7 +3,7 @@
 
 A machine learning model that predicts loan default probability using borrower fundamentals — no proprietary credit grades required. Features domain-driven feature engineering, a grade vs. no-grade model comparison, and an interactive Streamlit application that generates implied risk grades from borrower data.
 
-**[Live Demo →](YOUR_STREAMLIT_URL)**
+**[Live Demo →](https://credit-risk-model-3pyy8acs9ypikqxzwcjh6g.streamlit.app/)**
 
 ---
 
